@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['27686881509'] //Owner Number in alive msg
-global.premium = ['27686881509'] //Owner Number in info
-global.ownernomer = '27686881509' // Owner Number <<<
-global.ownername = '👩‍💻CYBERXKID👩‍💻' //Owner Name
-global.botname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Name
-global.footer = '©-𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳.' //In List Menu
+global.owner = ['14386008837'] //Owner Number in alive msg
+global.premium = ['14386008837'] //Owner Number in info
+global.ownernomer = '14386008837' // Owner Number <<<
+global.ownername = '◈LUCIFER MD◈' //Owner Name
+global.botname = '🇱🇰LUCIFER MD🇱🇰' //Bot Name
+global.footer = '©-LUCIFER MD.' //In List Menu
 global.ig = 'https://github.com/CYBERXKID'
-global.region = 'India, South India, Kerala'
+global.region = 'Sri Lanka, North Central Province, Kekirawa'
 global.sc = 'https://github.com/CYBERXKID/Alexa-Queen-MD'
 global.myweb = 'https://youtube.com/channel/UC4oTs5DILGmK1EgIJ5XIyZw'
-global.packname = '🧚‍♂️ALEXA QUEEN🧚‍♂️' //Bot Pacage Name
-global.author = '👩‍💻CYBERXKID👩‍💻' //Author Name
+global.packname = '🧚‍♂️LUCIFER MD🧚‍♂️' //Bot Pacage Name
+global.author = '👩‍💻LUCIFER MD👩‍💻' //Author Name
 global.sessionName = 'session' //Session Name!
 global.prefa = ['','!','.','👩‍💻','📱','❤️'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '⭔' //A Charactor
